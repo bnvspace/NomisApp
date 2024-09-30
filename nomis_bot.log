@@ -1,0 +1,156 @@
+
+11:36:33.86 | SUCCESS | Добавлена сессия +77074463357 @bnvspace PROXY : NONE
+11:37:14.44 | SUCCESS | Добавлена сессия +31616290198 @ibexwolf PROXY : NONE
+11:37:42.48 | SUCCESS | Добавлена сессия +77071013856 @Intelektov PROXY : NONE
+11:37:50.79 | INFO | Найдено сессий: 3!
+11:37:50.79 | INFO | Проверяю сессии на валидность!
+11:37:53.08 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+11:39:53.44 | INFO | main | Thread 0 | Nomis-Igor | Start! | PROXY : None
+11:39:53.65 | SUCCESS | start_farm | Thread 0 | Nomis-Igor | Start Farm
+11:39:54.00 | SUCCESS | verify_task | Thread 0 | Nomis-Igor | Claimed 50.0
+11:40:17.45 | SUCCESS | verify_task | Thread 0 | Nomis-Igor | Claimed 30.0
+11:40:55.33 | INFO | main | Thread 1 | Nomis-Main | Start! | PROXY : None
+11:41:27.04 | SUCCESS | verify_task | Thread 1 | Nomis-Main | Claimed 50.0
+11:41:53.23 | INFO | main | Thread 2 | Nomis-Nikolay | Start! | PROXY : None
+11:41:53.42 | SUCCESS | start_farm | Thread 2 | Nomis-Nikolay | Start Farm
+11:42:14.72 | SUCCESS | verify_task | Thread 2 | Nomis-Nikolay | Claimed 50.0
+11:43:19.35 | SUCCESS | verify_task | Thread 2 | Nomis-Nikolay | Claimed 30.0
+13:44:12.42 | INFO | main | Thread 2 | Nomis-Nikolay | Start! | PROXY : None
+13:45:40.03 | SUCCESS | verify_task | Thread 2 | Nomis-Nikolay | Claimed 30.0
+14:10:00.51 | INFO | main | Thread 1 | Nomis-Main | Start! | PROXY : None
+14:10:00.87 | SUCCESS | verify_task | Thread 1 | Nomis-Main | Claimed 50.0
+14:11:40.12 | SUCCESS | verify_task | Thread 1 | Nomis-Main | Claimed 30.0
+14:12:16.29 | SUCCESS | verify_task | Thread 1 | Nomis-Main | Claimed 30.0
+14:16:46.69 | INFO | main | Thread 0 | Nomis-Igor | Start! | PROXY : None
+16:13:49.89 | INFO | main | Thread 1 | Nomis-Main | Start! | PROXY : None
+16:25:17.83 | INFO | main | Thread 2 | Nomis-Nikolay | Start! | PROXY : None
+16:25:18.19 | SUCCESS | verify_task | Thread 2 | Nomis-Nikolay | Claimed 100.0
+16:25:49.98 | INFO | main | Thread 0 | Nomis-Igor | Start! | PROXY : None
+16:26:57.22 | SUCCESS | verify_task | Thread 0 | Nomis-Igor | Claimed 30.0
+18:06:43.24 | INFO | main | Thread 1 | Nomis-Main | Start! | PROXY : None
+18:06:43.38 | SUCCESS | claim_farm | Thread 1 | Nomis-Main | Claimed farm 
+18:07:00.00 | SUCCESS | start_farm | Thread 1 | Nomis-Main | Start Farm
+18:16:05.25 | INFO | main | Thread 0 | Nomis-Igor | Start! | PROXY : None
+18:16:05.41 | SUCCESS | claim_farm | Thread 0 | Nomis-Igor | Claimed farm 
+18:16:12.66 | SUCCESS | start_farm | Thread 0 | Nomis-Igor | Start Farm
+18:16:13.11 | SUCCESS | verify_task | Thread 0 | Nomis-Igor | Claimed 100.0
+18:16:46.33 | SUCCESS | verify_task | Thread 0 | Nomis-Igor | Claimed 50.0
+18:17:19.48 | SUCCESS | verify_task | Thread 0 | Nomis-Igor | Claimed 50.0
+18:17:59.43 | SUCCESS | verify_task | Thread 0 | Nomis-Igor | Claimed 30.0
+18:18:29.36 | SUCCESS | verify_task | Thread 0 | Nomis-Igor | Claimed 30.0
+19:08:17.84 | INFO | main | Thread 2 | Nomis-Nikolay | Start! | PROXY : None
+19:08:17.99 | SUCCESS | claim_farm | Thread 2 | Nomis-Nikolay | Claimed farm 
+19:08:36.83 | SUCCESS | start_farm | Thread 2 | Nomis-Nikolay | Start Farm
+13:06:00.23 | INFO | Найдено сессий: 3!
+13:06:00.26 | INFO | Проверяю сессии на валидность!
+13:06:03.67 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+13:06:42.41 | INFO | main | Thread 1 | Nomis-Main | Start! | PROXY : None
+13:06:42.61 | SUCCESS | claim_farm | Thread 1 | Nomis-Main | Claimed farm 
+13:06:47.73 | SUCCESS | start_farm | Thread 1 | Nomis-Main | Start Farm
+13:06:48.08 | SUCCESS | verify_task | Thread 1 | Nomis-Main | Claimed 30.0
+13:06:59.56 | INFO | main | Thread 0 | Nomis-Igor | Start! | PROXY : None
+13:06:59.71 | SUCCESS | claim_farm | Thread 0 | Nomis-Igor | Claimed farm 
+13:07:20.10 | SUCCESS | start_farm | Thread 0 | Nomis-Igor | Start Farm
+13:07:44.49 | SUCCESS | verify_task | Thread 1 | Nomis-Main | Claimed 30.0
+13:07:45.44 | SUCCESS | verify_task | Thread 0 | Nomis-Igor | Claimed 30.0
+13:09:59.18 | INFO | main | Thread 2 | Nomis-Nikolay | Start! | PROXY : None
+13:09:59.33 | SUCCESS | claim_farm | Thread 2 | Nomis-Nikolay | Claimed farm 
+13:10:18.67 | SUCCESS | start_farm | Thread 2 | Nomis-Nikolay | Start Farm
+13:12:04.40 | SUCCESS | verify_task | Thread 2 | Nomis-Nikolay | Claimed 30.0
+15:04:33.02 | INFO | main | Thread 1 | Nomis-Main | Start! | PROXY : None
+15:05:03.02 | SUCCESS | verify_task | Thread 1 | Nomis-Main | Claimed 100.0
+15:34:44.84 | INFO | main | Thread 2 | Nomis-Nikolay | Start! | PROXY : None
+15:34:45.20 | SUCCESS | verify_task | Thread 2 | Nomis-Nikolay | Claimed 50.0
+15:38:11.41 | INFO | main | Thread 0 | Nomis-Igor | Start! | PROXY : None
+16:55:02.11 | INFO | main | Thread 1 | Nomis-Main | Start! | PROXY : None
+16:55:35.31 | SUCCESS | verify_task | Thread 1 | Nomis-Main | Claimed 30.0
+17:26:06.01 | INFO | main | Thread 0 | Nomis-Igor | Start! | PROXY : None
+17:37:35.11 | INFO | main | Thread 2 | Nomis-Nikolay | Start! | PROXY : None
+17:37:35.58 | SUCCESS | verify_task | Thread 2 | Nomis-Nikolay | Claimed 30.0
+19:06:58.37 | INFO | main | Thread 1 | Nomis-Main | Start! | PROXY : None
+19:06:58.86 | SUCCESS | claim_farm | Thread 1 | Nomis-Main | Claimed farm 
+19:07:04.98 | SUCCESS | start_farm | Thread 1 | Nomis-Main | Start Farm
+19:08:04.03 | SUCCESS | verify_task | Thread 1 | Nomis-Main | Claimed 50.0
+19:14:09.55 | INFO | main | Thread 0 | Nomis-Igor | Start! | PROXY : None
+19:14:10.02 | SUCCESS | claim_farm | Thread 0 | Nomis-Igor | Claimed farm 
+19:14:22.87 | SUCCESS | start_farm | Thread 0 | Nomis-Igor | Start Farm
+20:15:10.01 | INFO | main | Thread 2 | Nomis-Nikolay | Start! | PROXY : None
+20:15:10.50 | SUCCESS | claim_farm | Thread 2 | Nomis-Nikolay | Claimed farm 
+20:15:28.65 | SUCCESS | start_farm | Thread 2 | Nomis-Nikolay | Start Farm
+22:03:02.46 | INFO | Найдено сессий: 3!
+22:03:02.50 | INFO | Проверяю сессии на валидность!
+22:03:06.80 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+22:04:45.51 | INFO | main | Thread 2 | Nomis-Nikolay | Start! | PROXY : None
+22:04:45.73 | SUCCESS | claim_farm | Thread 2 | Nomis-Nikolay | Claimed farm 
+22:04:59.10 | SUCCESS | start_farm | Thread 2 | Nomis-Nikolay | Start Farm
+22:05:30.26 | INFO | main | Thread 0 | Nomis-Igor | Start! | PROXY : None
+22:05:30.51 | SUCCESS | claim_farm | Thread 0 | Nomis-Igor | Claimed farm 
+22:05:34.15 | SUCCESS | start_farm | Thread 0 | Nomis-Igor | Start Farm
+22:06:23.89 | SUCCESS | verify_task | Thread 2 | Nomis-Nikolay | Claimed 30.0
+22:07:44.49 | INFO | main | Thread 1 | Nomis-Main | Start! | PROXY : None
+22:07:44.71 | SUCCESS | claim_farm | Thread 1 | Nomis-Main | Claimed farm 
+22:07:49.70 | SUCCESS | start_farm | Thread 1 | Nomis-Main | Start Farm
+23:49:24.72 | ERROR | main | Thread 1 | Nomis-Main | 0, message='Attempt to decode JSON with unexpected mimetype: text/plain; charset=utf-8', url=URL('https://cms-tg.nomis.cc/api/ton-twa-users/auth/')
+00:03:38.65 | ERROR | main | Thread 0 | Nomis-Igor | 0, message='Attempt to decode JSON with unexpected mimetype: text/plain; charset=utf-8', url=URL('https://cms-tg.nomis.cc/api/ton-twa-users/auth/')
+00:29:36.58 | ERROR | main | Thread 2 | Nomis-Nikolay | 0, message='Attempt to decode JSON with unexpected mimetype: text/plain; charset=utf-8', url=URL('https://cms-tg.nomis.cc/api/ton-twa-users/auth/')
+09:44:46.83 | INFO | Найдено сессий: 3!
+09:44:46.85 | INFO | Проверяю сессии на валидность!
+09:44:50.37 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+09:45:44.75 | ERROR | main | Thread 0 | Nomis-Igor | 0, message='Attempt to decode JSON with unexpected mimetype: text/plain; charset=utf-8', url=URL('https://cms-tg.nomis.cc/api/ton-twa-users/auth/')
+09:48:37.78 | ERROR | main | Thread 1 | Nomis-Main | 0, message='Attempt to decode JSON with unexpected mimetype: text/plain; charset=utf-8', url=URL('https://cms-tg.nomis.cc/api/ton-twa-users/auth/')
+22:17:34.86 | INFO | Найдено сессий: 3!
+22:17:34.88 | INFO | Проверяю сессии на валидность!
+22:17:40.20 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+22:19:00.72 | ERROR | main | Thread 0 | Nomis-Igor | 0, message='Attempt to decode JSON with unexpected mimetype: text/plain; charset=utf-8', url=URL('https://cms-tg.nomis.cc/api/ton-twa-users/auth/')
+22:19:12.13 | ERROR | main | Thread 1 | Nomis-Main | 0, message='Attempt to decode JSON with unexpected mimetype: text/plain; charset=utf-8', url=URL('https://cms-tg.nomis.cc/api/ton-twa-users/auth/')
+22:21:18.14 | INFO | Найдено сессий: 3!
+22:21:18.14 | INFO | Проверяю сессии на валидность!
+22:21:20.54 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+22:24:10.30 | ERROR | main | Thread 1 | Nomis-Main | 0, message='Attempt to decode JSON with unexpected mimetype: text/plain; charset=utf-8', url=URL('https://cms-tg.nomis.cc/api/ton-twa-users/auth/')
+22:24:10.41 | ERROR | main | Thread 2 | Nomis-Nikolay | 0, message='Attempt to decode JSON with unexpected mimetype: text/plain; charset=utf-8', url=URL('https://cms-tg.nomis.cc/api/ton-twa-users/auth/')
+22:26:13.81 | ERROR | main | Thread 0 | Nomis-Igor | 0, message='Attempt to decode JSON with unexpected mimetype: text/plain; charset=utf-8', url=URL('https://cms-tg.nomis.cc/api/ton-twa-users/auth/')
+23:03:56.37 | INFO | Найдено сессий: 3!
+23:03:56.37 | INFO | Проверяю сессии на валидность!
+23:03:58.76 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+23:07:55.77 | INFO | NOMIS | main | Thread 2 | Nomis-Nikolay | Start! | PROXY : None
+23:07:56.27 | SUCCESS | NOMIS | claim_farm | Thread 2 | Nomis-Nikolay | Claimed farm 
+23:08:31.95 | INFO | NOMIS | main | Thread 1 | Nomis-Main | Start! | PROXY : None
+23:08:46.19 | SUCCESS | NOMIS | start_farm | Thread 2 | Nomis-Nikolay | Start Farm
+23:08:57.27 | INFO | NOMIS | main | Thread 0 | Nomis-Igor | Start! | PROXY : None
+23:08:57.68 | SUCCESS | NOMIS | claim_farm | Thread 0 | Nomis-Igor | Claimed farm 
+23:09:35.88 | SUCCESS | NOMIS | start_farm | Thread 0 | Nomis-Igor | Start Farm
+23:09:50.08 | SUCCESS | NOMIS | verify_task | Thread 0 | Nomis-Igor | Claimed 50.0
+23:10:06.72 | INFO | NOMIS | main | Thread 1 | Nomis-Main | Круг окончен
+23:11:10.99 | INFO | NOMIS | main | Thread 2 | Nomis-Nikolay | Круг окончен
+23:11:49.31 | INFO | NOMIS | main | Thread 0 | Nomis-Igor | Круг окончен
+08:24:25.77 | INFO | Найдено сессий: 3!
+08:24:25.78 | INFO | Проверяю сессии на валидность!
+08:24:29.74 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+08:25:06.08 | INFO | NOMIS | main | Thread 2 | Nomis-Nikolay | Start! | PROXY : None
+08:25:06.55 | SUCCESS | NOMIS | claim_farm | Thread 2 | Nomis-Nikolay | Claimed farm 
+08:25:53.54 | SUCCESS | NOMIS | start_farm | Thread 2 | Nomis-Nikolay | Start Farm
+08:27:23.07 | INFO | NOMIS | main | Thread 0 | Nomis-Igor | Start! | PROXY : None
+08:27:23.49 | SUCCESS | NOMIS | claim_farm | Thread 0 | Nomis-Igor | Claimed farm 
+08:27:55.46 | SUCCESS | NOMIS | verify_task | Thread 2 | Nomis-Nikolay | Claimed 30.0
+08:28:08.44 | SUCCESS | NOMIS | start_farm | Thread 0 | Nomis-Igor | Start Farm
+08:28:12.36 | INFO | NOMIS | main | Thread 1 | Nomis-Main | Start! | PROXY : None
+08:28:12.86 | SUCCESS | NOMIS | claim_farm | Thread 1 | Nomis-Main | Claimed farm 
+08:28:31.69 | INFO | NOMIS | main | Thread 2 | Nomis-Nikolay | Круг окончен
+08:28:53.48 | SUCCESS | NOMIS | start_farm | Thread 1 | Nomis-Main | Start Farm
+08:29:40.61 | INFO | NOMIS | main | Thread 0 | Nomis-Igor | Круг окончен
+08:31:12.06 | INFO | NOMIS | main | Thread 1 | Nomis-Main | Круг окончен
+19:47:48.80 | INFO | Найдено сессий: 3!
+19:47:48.83 | INFO | Проверяю сессии на валидность!
+19:47:52.01 | SUCCESS | Валидных сессий: 3; Невалидных: 0
+19:49:00.27 | INFO | NOMIS | main | Thread 0 | Nomis-Igor | Start! | PROXY : None
+19:49:00.77 | SUCCESS | NOMIS | claim_farm | Thread 0 | Nomis-Igor | Claimed farm 
+19:49:03.97 | INFO | NOMIS | main | Thread 2 | Nomis-Nikolay | Start! | PROXY : None
+19:49:04.41 | SUCCESS | NOMIS | claim_farm | Thread 2 | Nomis-Nikolay | Claimed farm 
+19:49:46.60 | SUCCESS | NOMIS | start_farm | Thread 2 | Nomis-Nikolay | Start Farm
+19:50:00.16 | SUCCESS | NOMIS | start_farm | Thread 0 | Nomis-Igor | Start Farm
+19:51:29.66 | INFO | NOMIS | main | Thread 0 | Nomis-Igor | Круг окончен
+19:52:26.59 | INFO | NOMIS | main | Thread 2 | Nomis-Nikolay | Круг окончен
+19:52:34.75 | INFO | NOMIS | main | Thread 1 | Nomis-Main | Start! | PROXY : None
+19:52:35.14 | SUCCESS | NOMIS | claim_farm | Thread 1 | Nomis-Main | Claimed farm 
+19:53:06.62 | SUCCESS | NOMIS | start_farm | Thread 1 | Nomis-Main | Start Farm
+19:53:22.40 | INFO | NOMIS | main | Thread 1 | Nomis-Main | Круг окончен
